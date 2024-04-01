@@ -1,0 +1,12 @@
+[===== Weather parameters =====]
+Temperature
+Condition
+Wind speed
+Humidity
+Pressure
+UV index
+Cloud cover
+Visibility
+
+[===== Components =====]
+Label
